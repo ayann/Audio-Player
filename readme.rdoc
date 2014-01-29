@@ -16,6 +16,7 @@
   mp3
   ogg
 
-  obligatoirement integrer les deux formats car tous les navigateurs ne prennent pas en charge le même format.
+  obligatoirement integrer les deux formats car tous les navigateurs 
+  ne prennent pas en charge le même format.
   
   Auteur : Armand Niampa
