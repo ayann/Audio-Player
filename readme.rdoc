@@ -68,10 +68,13 @@
 
 === Description
   
-  l'image dans la div.image représente le Thumbnail de la musique
+  <div class="image">
+    <img src="img/folder.jpg" alt="">             //  le Thumbnail de la musique
+  </div>
 
   <div class="artist_album">
-    <span class="name">Disque d'or</span>   // titre de la musique
-    <span class="artist">Sexion d'assaut</span> // Nom de l'artiste
-    <span class="album">L'apogee</span>    // nom de l'album
+    <span class="name">Disque d'or</span>         //  titre de la musique
+    <span class="artist">Sexion d'assaut</span>   //  Nom de l'artiste
+    <span class="album">L'apogee</span>           //  nom de l'album
   </div>
+
