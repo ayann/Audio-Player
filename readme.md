@@ -1,0 +1,21 @@
+= Lecteur Audio
+
+	J'ai realisé ce lecteur pour faciliter la lecture des fichiers audios sans integer des applications en flash.
+
+
+== Langage utilisé
+
+  HTML
+  CSS3
+  JS (JQUERY)
+
+  Pour le css j'ai utilisé compass comme framework
+
+== format compatible
+
+  mp3
+  ogg
+
+  obligatoirement integrer les deux formats car tous les navigateurs ne prennent pas en charge le même format.
+  
+  Auteur : Armand Niampa
